@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.3.11505.172 d18.3
+VisualStudioVersion = 18.3.11505.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADC", "ADC\ADC.vcxproj", "{13A291F4-C8B5-402A-87CD-53123DEB87B2}"
 EndProject
@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAC", "DAC\DAC.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SINEIO", "SINEIO\SINEIO.vcxproj", "{FCA12DCE-E6FA-4FA4-B101-246635CEE766}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SysId", "sysIdAddToExistingAdcDacSinIo\SysId.vcxproj", "{40F7B0EB-9473-4CEE-B6E4-DD996038D761}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SysId", "SYSID\SysId.vcxproj", "{40F7B0EB-9473-4CEE-B6E4-DD996038D761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
