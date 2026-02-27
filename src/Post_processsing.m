@@ -23,7 +23,7 @@ for a_idx = 1:length(test_amps)
         Freq_in = test_freqs(f_idx);
         
         % Construct the filename
-        fname = sprintf('sweep_%.1fV_%.1fHz.txt', Amp_in, Freq_in);
+        fname = fullfile('Test_run', sprintf('sweep_%.1fV_%.1fHz.txt', Amp_in, Freq_in));
         
         % Safety check
         if ~isfile(fname)
